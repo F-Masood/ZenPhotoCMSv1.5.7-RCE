@@ -28,6 +28,6 @@
 6. You should have RCE now. 
 ![alt text](https://github.com/F-Masood/ZenPhotoCMSv1.5.7-RCE/blob/main/007_RCE.png)
 
-#### POC
+#### Video PoC
 
 ![](01_zenphoto1.5.7_RCE_POC.gif)
